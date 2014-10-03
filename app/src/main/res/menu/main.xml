@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fuseini.instant.weatherapp.MainActivity" >
+
+    <item
+        android:id="@+id/menu_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_rotate"
+        android:title="@string/menu_refresh"/>
+    
+    <item
+        android:id="@+id/menu_location"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_location"
+        android:icon="@android:drawable/ic_menu_search"/>
+
+</menu>
