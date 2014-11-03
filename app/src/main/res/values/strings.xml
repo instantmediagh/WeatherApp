@@ -7,7 +7,7 @@
     <string name="menu_units">Unit system</string>
     <string name="menu_refresh">Refresh</string>
     
-    <string name="progress_dialog_message">Fetching weather..</string>
+    <string name="progress_dialog_message">Fetching weather...</string>
     
     <string-array name="weather_tab_names">
         <item>Today</item>

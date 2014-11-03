@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#5694EF" >
+    android:background="#3E725E" >
     
     <RelativeLayout
 	    android:id="@+id/tomorrow_main_layout"

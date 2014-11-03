@@ -17,7 +17,7 @@ public class WeatherPreferences {
 	
 	// Private preferences values
 	private static final String PREF_LOCATION = "location";
-	private static final String PREF_DEFAULT_LOCATION = "London";
+	private static final String PREF_DEFAULT_LOCATION = "accra,gh";
 	private static final String PREF_UNITS = "units";
 	private static final int PREF_DEFAULT_UNITS = WeatherObject.METRIC;
 	
