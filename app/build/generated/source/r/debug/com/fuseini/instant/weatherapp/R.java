@@ -23,7 +23,39 @@ public final class R {
         public static final int tomorrow_details_margins=0x7f050005;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int ab_background_textured_weather=0x7f020000;
+        public static final int ab_bottom_solid_weather=0x7f020001;
+        public static final int ab_solid_weather=0x7f020002;
+        public static final int ab_stacked_solid_weather=0x7f020003;
+        public static final int ab_texture_tile_weather=0x7f020004;
+        public static final int ab_transparent_weather=0x7f020005;
+        public static final int btn_cab_done_default_weather=0x7f020006;
+        public static final int btn_cab_done_focused_weather=0x7f020007;
+        public static final int btn_cab_done_pressed_weather=0x7f020008;
+        public static final int btn_cab_done_weather=0x7f020009;
+        public static final int cab_background_bottom_weather=0x7f02000a;
+        public static final int cab_background_top_weather=0x7f02000b;
+        public static final int ic_launcher=0x7f02000c;
+        public static final int list_focused_weather=0x7f02000d;
+        public static final int list_pressed_weather=0x7f02000e;
+        public static final int menu_dropdown_panel_weather=0x7f02000f;
+        public static final int progress_bg_weather=0x7f020010;
+        public static final int progress_horizontal_weather=0x7f020011;
+        public static final int progress_primary_weather=0x7f020012;
+        public static final int progress_secondary_weather=0x7f020013;
+        public static final int selectable_background_weather=0x7f020014;
+        public static final int spinner_ab_default_weather=0x7f020015;
+        public static final int spinner_ab_disabled_weather=0x7f020016;
+        public static final int spinner_ab_focused_weather=0x7f020017;
+        public static final int spinner_ab_pressed_weather=0x7f020018;
+        public static final int spinner_background_ab_weather=0x7f020019;
+        public static final int tab_indicator_ab_weather=0x7f02001a;
+        public static final int tab_selected_focused_weather=0x7f02001b;
+        public static final int tab_selected_pressed_weather=0x7f02001c;
+        public static final int tab_selected_weather=0x7f02001d;
+        public static final int tab_unselected_focused_weather=0x7f02001e;
+        public static final int tab_unselected_pressed_weather=0x7f02001f;
+        public static final int tab_unselected_weather=0x7f020020;
     }
     public static final class id {
         public static final int menu_location=0x7f09002a;
@@ -125,6 +157,10 @@ public final class R {
         public static final int wind=0x7f06002b;
     }
     public static final class style {
+        public static final int ActionBar_Solid_Weather=0x7f070000;
+        public static final int ActionBar_Transparent_Weather=0x7f070001;
+        public static final int ActionBarTabStyle_Weather=0x7f070002;
+        public static final int ActionButton_CloseMode_Weather=0x7f070003;
         /** 
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
@@ -133,9 +169,12 @@ public final class R {
  API 11 theme customizations can go here. 
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f070000;
-        /**  All customizations that are NOT specific to a particular API-level can go here. 
-         */
-        public static final int AppTheme=0x7f070001;
+        public static final int AppBaseTheme=0x7f070004;
+        public static final int DropDownListView_Weather=0x7f070005;
+        public static final int DropDownNav_Weather=0x7f070006;
+        public static final int PopupMenu_Weather=0x7f070007;
+        public static final int ProgressBar_Weather=0x7f070008;
+        public static final int Theme_Weather=0x7f070009;
+        public static final int Theme_Weather_Widget=0x7f07000a;
     }
 }

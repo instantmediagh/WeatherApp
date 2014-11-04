@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Ghana Weather</string>
+    <string name="app_name">Simple Weather</string>
     
-    <string name="menu_location">Location</string>
+    <string name="menu_location">Enter Your Location</string>
     <string name="menu_units">Unit system</string>
     <string name="menu_refresh">Refresh</string>
     

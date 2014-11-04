@@ -2,22 +2,22 @@
 <pre-dex-items>
 
     <item
-        dex="/Users/JOSHMANGA/AndroidStudioProjects/weather-app-master/app/build/intermediates/pre-dexed/debug/classes-9c3f9c9af2e31779dc132c78ade2ec12d6202cfb.jar"
-        jar="/Users/JOSHMANGA/AndroidStudioProjects/weather-app-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
-    <item
-        dex="/Users/JOSHMANGA/AndroidStudioProjects/weather-app-master/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-3fea63d388627872638260bee346c656d814dab4.jar"
-        jar="/Users/JOSHMANGA/AndroidStudioProjects/weather-app-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
-    <item
-        dex="/Users/JOSHMANGA/AndroidStudioProjects/weather-app-master/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        dex="/Users/JOSHMANGA/AndroidStudioProjects/Weather For Ghana/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
         jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/JOSHMANGA/AndroidStudioProjects/Weather For Ghana/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ea2538404b7d04ea0ba7405aefd6c0f1609525f8.jar"
+        jar="/Users/JOSHMANGA/AndroidStudioProjects/Weather For Ghana/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/Users/JOSHMANGA/AndroidStudioProjects/Weather For Ghana/app/build/intermediates/pre-dexed/debug/classes-208459d1efa2250be735b15852c861a39976864b.jar"
+        jar="/Users/JOSHMANGA/AndroidStudioProjects/Weather For Ghana/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
 
 </pre-dex-items>
