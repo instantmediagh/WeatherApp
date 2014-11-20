@@ -2,12 +2,6 @@
 <pre-dex-items>
 
     <item
-        dex="/Users/JOSHMANGA/AndroidStudioProjects/Weather For Ghana/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
-        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
-        jumboMode="false"
-        revision="20.0.0"
-        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
-    <item
         dex="/Users/JOSHMANGA/AndroidStudioProjects/Weather For Ghana/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-ea2538404b7d04ea0ba7405aefd6c0f1609525f8.jar"
         jar="/Users/JOSHMANGA/AndroidStudioProjects/Weather For Ghana/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
         jumboMode="false"
@@ -19,5 +13,11 @@
         jumboMode="false"
         revision="20.0.0"
         sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/JOSHMANGA/AndroidStudioProjects/Weather For Ghana/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-76b1937978bac19d5ed3190ddb8166c3fcab4ddc.jar"
+        jar="/Applications/Android Studio.app/untitled folder/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
 
 </pre-dex-items>

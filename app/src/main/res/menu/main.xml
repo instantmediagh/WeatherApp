@@ -6,7 +6,7 @@
         android:id="@+id/menu_refresh"
         android:orderInCategory="100"
         android:showAsAction="always"
-        android:icon="@android:drawable/ic_menu_rotate"
+        android:icon="@drawable/ic_menu_rotate"
         android:title="@string/menu_refresh"/>
     
     <item
@@ -14,6 +14,7 @@
         android:orderInCategory="100"
         android:showAsAction="always"
         android:title="@string/menu_location"
-        android:icon="@android:drawable/ic_menu_search"/>
+        android:icon="@drawable/ic_menu_search"
+    />
 
 </menu>
